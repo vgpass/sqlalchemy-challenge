@@ -44,7 +44,7 @@ The average temperature as well as the high and low for the period were examined
 
 ![Temperature histogram for Waihee](SurfsUp/Output/temp_frequency.png)
 
-Finally, a python script was written to create an API using the Flask framework.
+Finally, a python script was written to create an API using the Flask framework. Below is a simple layout of my home page.
 
     Welcome to the Climate App API!
 

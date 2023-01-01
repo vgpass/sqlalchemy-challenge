@@ -133,12 +133,12 @@ def start(start=None):
 
     start_data = []
     for tmin, tmax, tavg, name in temp_start:
-        range_dict = {}
-        range_dict['tmin'] = tmin
-        range_dict['tmax'] = tmax
-        range_dict['tavg'] = tavg
-        range_dict['name'] = name
-        start_data.append(range_dict)
+        start_dict = {}
+        start_dict['tmin'] = tmin
+        start_dict['tmax'] = tmax
+        start_dict['tavg'] = tavg
+        start_dict['name'] = name
+        start_data.append(start_dict)
 
     return jsonify(start_data)
 
