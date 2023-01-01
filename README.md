@@ -27,15 +27,15 @@ The precipitation analysis shows the rainfall for all stations for the last year
 
 A statistical analysis was also done of the dataframe and yielded the following results.
 
-	prcp
-count	2021.000000
-mean	0.177279
-std	0.461190
-min	0.000000
-25%	0.000000
-50%	0.020000
-75%	0.130000
-max	6.700000
+    prcp
+    count	2021.000000
+    mean	0.177279
+    std	0.461190
+    min	0.000000
+    25%	0.000000
+    50%	0.020000
+    75%	0.130000
+    max	6.700000
 
 The temperature analysis was conducted on the most active station in terms of observations. That station was WAIHEE 837.5, HI US which had 2,772 observations in the dataset. 
 
